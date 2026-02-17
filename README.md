@@ -105,6 +105,7 @@
 **Дата лекции:** 09.02.2026
 
 [Презентация](https://disk.yandex.ru/i/L32U5noqacSeVg) 
+[Пример](https://github.com/kantegory/mentoring/tree/master/31_api_design_examle)
 
 **Можно почитать:**
 
